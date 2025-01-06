@@ -129,7 +129,9 @@ endmodule
 
 **TIMING DIGRAMS FOR 4 Bit Ripple Counter**
 
-![Screenshot 2024-12-14 000211](https://github.com/user-attachments/assets/572b4383-613c-4347-87a3-ebf489e356ea)
+https://imagekit.io/tools/asset-public-link?detail=%7B%22name%22%3A%221000021237.jpg%22%2C%22type%22%3A%22image%2Fjpeg%22%2C%22signedurl_expire%22%3A%222025-01-08T08%3A03%3A25.568Z%22%2C%22signedUrl%22%3A%22https%3A%2F%2Fmedia-hosting.imagekit.io%2F%2F314b352e75ac4479%2F1000021237.jpg%3FExpires%3D1736323406%26Key-Pair-Id%3DK2ZIVPTIP2VGHC%26Signature%3Dz4bsGj62xymwyBFmdkkCuM7lklYUje0teGVYhJwwvELJ9CTM0PhVbfYZv7Q8t9ZMrkBcT9Ca7l0fFP6poMcK1iU3vsHwgNR9ehvhK5PJnsF2c0k3zhFifm8mZz-Xpdnx7X93XG5yRzdjP1FRI~xjZHLA-vtWo9S0uFKUOCzgKe1pcQ4Uly5FzbdU~p0NLUQbvfh0RpcEmYSvy9YKnVJ3jKnsPQOKWpIhSl~8DEmFpp7pPe2M329GshnpbbggMlsufjU7oUrd16t69WBeqtOawk-CEvObYoJJNSoUxLOTv0c1IgAIAKQT7XugZ5UuLkfjj72vAseIcMoh00SCCQH9sg__%22%7D
+
+VM
 
 
 **RESULT**
